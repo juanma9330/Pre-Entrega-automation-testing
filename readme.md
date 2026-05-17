@@ -18,7 +18,7 @@ El objetivo del proyecto es validar funcionalidades principales del sitio como:
 
 ## Instalacion
 
-git clone https:
+git clone (https://github.com/juanma9330/Pre-Entrega-automation-testing.git)
 
 ## Instalacion de dependencias
 
