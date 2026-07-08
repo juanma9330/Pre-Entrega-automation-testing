@@ -2,11 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pytest
 
-def test_cart(login_in_driver):
-    driver = login_in_driver
-
+@pytest.mark.smoke
+def test_cart(driver_logged):
+    driver = driver_logged
     
-     #agregar producto al carrito
+    #agregar producto al carrito
     driver.find_elements(By.CLASS_NAME, "btn_inventory")[0].click()
     
     #verificar contador carrito

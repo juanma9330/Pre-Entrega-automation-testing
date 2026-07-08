@@ -1,0 +1,31 @@
+2026-07-08 00:50:38,805 INFO Proyecto_final_TalentoTech - Iniciando prueba carrito con datos JSON
+2026-07-08 00:50:38,805 INFO Proyecto_final_TalentoTech - Leyendo productos desde archivo JSON
+2026-07-08 00:50:38,917 INFO Proyecto_final_TalentoTech - Ingresando al carrito
+2026-07-08 00:50:38,945 INFO Proyecto_final_TalentoTech - Obteniendo productos del carrito
+2026-07-08 00:50:38,974 INFO Proyecto_final_TalentoTech - Todos los productos fueron validados correctamente
+2026-07-08 00:50:38,974 INFO Proyecto_final_TalentoTech - Todos los productos fueron validados correctamente
+2026-07-08 00:50:41,856 INFO Proyecto_final_TalentoTech - Iniciando prueba validar titulo del inventario
+2026-07-08 00:50:41,856 INFO Proyecto_final_TalentoTech - Obteniendo titulo de la pagina
+2026-07-08 00:50:41,869 INFO Proyecto_final_TalentoTech - Titulo obtenido: Swag Labs
+2026-07-08 00:50:41,869 INFO Proyecto_final_TalentoTech - Titulo validado correctamente
+2026-07-08 00:50:44,811 INFO Proyecto_final_TalentoTech - Iniciando prueba validar productos visibles
+2026-07-08 00:50:44,811 INFO Proyecto_final_TalentoTech - Obteniendo lista de productos
+2026-07-08 00:50:44,819 INFO Proyecto_final_TalentoTech - Cantidad de productos encontrados: 6
+2026-07-08 00:50:44,819 INFO Proyecto_final_TalentoTech - Productos visibles correctamente
+2026-07-08 00:50:47,750 INFO Proyecto_final_TalentoTech - Iniciando prueba validar elementos UI
+2026-07-08 00:50:47,751 INFO Proyecto_final_TalentoTech - Validando menu lateral
+2026-07-08 00:50:47,765 INFO Proyecto_final_TalentoTech - Menu visible correctamente
+2026-07-08 00:50:47,766 INFO Proyecto_final_TalentoTech - Validando filtro de productos
+2026-07-08 00:50:47,773 INFO Proyecto_final_TalentoTech - Filtro visible correctamente
+2026-07-08 00:50:57,648 INFO Proyecto_final_TalentoTech - inicializando el driver para test login
+2026-07-08 00:50:57,648 INFO Proyecto_final_TalentoTech - ingresando los datos
+2026-07-08 00:50:58,631 INFO Proyecto_final_TalentoTech - iniciando sesion
+2026-07-08 00:50:58,634 INFO Proyecto_final_TalentoTech - sesion iniciada correctamente
+2026-07-08 00:51:01,234 INFO Proyecto_final_TalentoTech - inicializando el driver para test login
+2026-07-08 00:51:01,234 INFO Proyecto_final_TalentoTech - ingresando los datos
+2026-07-08 00:51:02,098 INFO Proyecto_final_TalentoTech - iniciando sesion
+2026-07-08 00:51:02,109 INFO Proyecto_final_TalentoTech - error de inicio de sesion
+2026-07-08 00:51:04,710 INFO Proyecto_final_TalentoTech - inicializando el driver para test login
+2026-07-08 00:51:04,710 INFO Proyecto_final_TalentoTech - ingresando los datos
+2026-07-08 00:51:05,022 INFO Proyecto_final_TalentoTech - iniciando sesion
+2026-07-08 00:51:05,032 INFO Proyecto_final_TalentoTech - error de inicio de sesion
